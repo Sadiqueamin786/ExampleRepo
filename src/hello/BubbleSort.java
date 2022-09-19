@@ -1,4 +1,4 @@
-package Exp;
+package hello;
 
 import java.util.Scanner;
 
